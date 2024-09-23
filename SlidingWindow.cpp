@@ -21,7 +21,7 @@ int main()
    else
    {
    int i=0,j=k-1;
-   while(j<n)
+   while(j<n-1)
    {
        sum-=a[i];
        i++;
